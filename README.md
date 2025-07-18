@@ -17,6 +17,11 @@ A lightweight and educational compiler for **MinLang**, a minimalist programming
 ---
 
 ## 🛠️ Installation
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/minlang-compiler.git
+cd minlang-compiler
 
 
 
